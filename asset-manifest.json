@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newsai/static/css/main.bdb8ab58.chunk.css",
+    "main.js": "/newsai/static/js/main.b3aab4b3.chunk.js",
+    "main.js.map": "/newsai/static/js/main.b3aab4b3.chunk.js.map",
+    "runtime-main.js": "/newsai/static/js/runtime-main.0d9a8abd.js",
+    "runtime-main.js.map": "/newsai/static/js/runtime-main.0d9a8abd.js.map",
+    "static/js/2.9c1081d2.chunk.js": "/newsai/static/js/2.9c1081d2.chunk.js",
+    "static/js/2.9c1081d2.chunk.js.map": "/newsai/static/js/2.9c1081d2.chunk.js.map",
+    "index.html": "/newsai/index.html",
+    "precache-manifest.ab399f1b41be5da799c08134fd6719f3.js": "/newsai/precache-manifest.ab399f1b41be5da799c08134fd6719f3.js",
+    "service-worker.js": "/newsai/service-worker.js",
+    "static/css/main.bdb8ab58.chunk.css.map": "/newsai/static/css/main.bdb8ab58.chunk.css.map",
+    "static/js/2.9c1081d2.chunk.js.LICENSE.txt": "/newsai/static/js/2.9c1081d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d9a8abd.js",
+    "static/js/2.9c1081d2.chunk.js",
+    "static/css/main.bdb8ab58.chunk.css",
+    "static/js/main.b3aab4b3.chunk.js"
+  ]
+}
