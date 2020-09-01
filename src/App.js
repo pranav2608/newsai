@@ -4,7 +4,7 @@ import alanBtn from '@alan-ai/alan-sdk-web';
 import NewsCards from './components/NewsCards/NewsCards';
 import './App.css';
 
-const alanKey = "8d6b79fcab1294a886517322486e4d442e956eca572e1d8b807a3e2338fdd0dc/stage";
+const alanKey = "###/stage";
 
 
 function App() {
